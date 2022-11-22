@@ -1,0 +1,67 @@
+/* fonts usadas no projeto! não apagar */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+/* configuração do header*/
+
+header {
+    background-color: #440334;
+}
+/*area icones de rede social*/
+#logo {
+    display: block;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#icon-instagram {
+    height: 32px;
+    margin: 10px;
+}
+
+#icon-twitter {
+    height: 32px;
+    margin: 10px;
+}
+
+#icon-pinterest {
+    height: 32px;
+    margin: 10px;
+}
+
+#icon-user {
+    height: 32px;
+    margin: 10PX;
+    float: right;
+}
+
+/* configurações do footer */
+
+
+#footer-sociais {
+    margin-top: 100px;
+    background-image: url(/app/public/img/fundo.png);
+    padding-left: 120px;
+    
+  }
+  
+  footer {
+    background-color: #EC0868;
+    height: 400px;
+  }
+  
+  body footer h2 {
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: white;
+    margin-top: 40px;
+    margin-left: 20px;
+  }
+  
+  /*configuração da linha inferior azul dos links*/
+  a {
+    text-decoration: none;
+   }
